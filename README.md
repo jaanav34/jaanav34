@@ -1,7 +1,7 @@
 <h1 align="center">Jaanav Shah</h1>
 
 <p align="center">
-  <b>Incoming AI SWE @ KLA &nbsp;·&nbsp; NASA FPGA/DSP Researcher &nbsp;·&nbsp; CompEng Honors @ Purdue</b>
+  <b>Incoming AI SWE Intern @ KLA &nbsp;·&nbsp; NASA FPGA/DSP Researcher &nbsp;·&nbsp; CompEng Honors @ Purdue</b>
 </p>
 
 <p align="center">
@@ -38,11 +38,12 @@ Computer Engineering junior in Purdue's Honors College (GPA: 3.62, BS/MS acceler
 | Project | Description | Stack |
 |---|---|---|
 | [**microGPT FPGA**](https://github.com/jaanav34/FPGA-MicroGPT) | Full SystemVerilog GPT transformer for FPGA — multi-head attention, Q8.8 fixed-point arithmetic, 20K–100K tok/s at 100 MHz | SystemVerilog · Xilinx · RTL |
-| [**SubGenius**](https://github.com/jaanav34/SubGenius) | Professional subtitle generation & translation tool with 4 processing modes (Whisper, VAD, Gemini cloud, multi-turn SRT). 20× faster upload via client-side FFmpeg extraction | React 18 · Node.js · Gemini · Whisper · FFmpeg |
+| [**Neural Thin-Film Metrology**](https://github.com/jaanav34/NeuralEllipsometryReflectance) | Physics-informed neural network that inverts optical reflectance spectra into film parameters (thickness, n, k). Differentiable TMM loss, MC Dropout uncertainty, L-BFGS-B spectral refiner. R² = 0.975. [Live demo](https://neuralellipsometryreflectance.streamlit.app/) | PyTorch · NumPy · Streamlit · SciPy |
+| **SubGenius** | Professional subtitle generation & translation tool with 4 processing modes (Whisper, VAD, Gemini cloud, multi-turn SRT). 20× faster upload via client-side FFmpeg extraction | React 18 · Node.js · Gemini · Whisper · FFmpeg |
 | [**AI EPUB Editor**](https://github.com/jaanav34/AI_epub_edits) | Modular CLI to rewrite EPUB chapters into a target prose style across Gemini/OpenAI/AI Studio, with async rate-limiting and resumable multi-session state | Python · Gemini · OpenAI · Async |
 | [**NotebookLM Automator**](https://github.com/jaanav34/NotebookLM-Study-Guide-Automator) | Headless Playwright scraper for NotebookLM + LLM-powered Markdown→LaTeX converter + Manim video generator with a Tkinter GUI | Python · Playwright · Manim · LaTeX |
 | [**CommitBlogger**](https://github.com/jaanav34/commitBlogger) | CI/CD pipeline that auto-converts GitHub commits into blog posts and deploys to GitHub Pages using Gemini with async RPM/TPM rate limiting | Python · Gemini · GitHub Actions |
-| [**Tamagotchi_362**](https://github.com/jaanav34/Tamagotchi_362) | Fully embedded virtual pet on a Raspberry Pi Pico — interrupt-driven GPIO, SPI LCD + 8×8 LED matrix, PWM wavetable audio, and XOSC sleep/wake | C · Pico SDK · SPI · PWM · ADC |
+| **Tamagotchi_362** | Fully embedded virtual pet on a Raspberry Pi Pico — interrupt-driven GPIO, SPI LCD + 8×8 LED matrix, PWM wavetable audio, and XOSC sleep/wake | C · Pico SDK · SPI · PWM · ADC |
 
 ---
 
